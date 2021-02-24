@@ -2,15 +2,20 @@
     "name": "kasimi/faviconnotifications",
     "type": "phpbb-extension",
     "description": "Displays the number of new notifications in the favicon",
-    "homepage": "https://github.com/kasimi",
-    "version": "1.0.1",
-    "time": "2020-02-19",
+    "homepage": "https://github.com/xchwarze/phpbb-ext-faviconnotifications",
+    "version": "1.0.2",
+    "time": "2021-02-19",
     "license": "GPL-2.0-only",
     "authors": [
         {
             "name": "kasimi",
             "email": "mail@kasimi.net",
             "homepage": "https://kasimi.net",
+            "role": "Extension Developer"
+        }, {
+            "name": "DSR!",
+            "email": "xchwarze@gmail.com",
+            "homepage": "https://github.com/xchwarze/phpbb-ext-faviconnotifications",
             "role": "Extension Developer"
         }
     ],
